@@ -9,7 +9,7 @@ npm install
 ```
 npm run serve
 ```
-
+Hello, I did something wrong!
 ### Compiles and minifies for production
 ```
 npm run build
